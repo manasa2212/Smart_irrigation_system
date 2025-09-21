@@ -6,13 +6,15 @@ This project automates irrigation using a soil moisture sensor and weather API. 
 
 📁 Folder Structure
 
-Smart-Irrigation-System/ ├── moisture_log.py # Logs sensor data to SQLite ├── SOIL_mois.py # Reads from soil moisture sensor ├── sensor_output.jpg # Screenshot of sensor output ├── database.jpg # Screenshot of the database ├── graph.jpg # Screenshot of the moisture graph └── README.md # Project description
+Smart-Irrigation-System/
+├── moisture_log.py # Logs sensor data to SQLite 
+├── SOIL_mois.py # Reads from soil moisture sensor 
+├── sensor_output.jpg # Screenshot of sensor output
+├── database.jpg # Screenshot of the database
+├── graph.jpg # Screenshot of the moisture graph
+└── README.md # Project description
 
-yaml
-Copy
-Edit
 
----
 
 🧠 Features
 
@@ -69,4 +71,5 @@ Edit
    python3 SOIL_mois.py
    python3 moisture_log.py
 View data logs and graphs for trends.
+
 
